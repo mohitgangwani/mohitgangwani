@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohit!</h1>
 <h3 align="center">A passionate Web Developer from Mumbai India &#127470;&#127475</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitgangwani&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitgangwani&label=Profile%20views&color=0e75b6&style=flat" alt="mohitgangwani" /> </p>
 
-<p align="left"> <a href="https://x.com/mohit.explores" target="blank"><img src="https://img.shields.io/twitter/follow/mohit.explores?logo=twitter&style=for-the-badge" alt="=mohit.explores" /></a> </p>
+<p align="left"> <a href="https://x.com/mohit_explores" target="blank"><img src="https://img.shields.io/twitter/follow/mohit.explores?logo=twitter&style=for-the-badge" alt="mohit_explores" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -26,7 +26,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/mohitgangwani">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://x.com/mohit.explores">
+		<a style="margin-left: 10px;" target="_blank" href="https://x.com/mohit_explores">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
 
